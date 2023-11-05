@@ -1,0 +1,8 @@
+.idea
+packages/
+dist/
+build/
+.venv
+venv/
+.vscode
+vscode/
